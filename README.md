@@ -1,1 +1,1 @@
-👋 Hi, I’m @christophscheuch, an independent business intelligence & data science expert at [tidy-intelligence.com](https://www.tidy-intelligence.com/) and co-creator and maintainer of [tidy-finance.org](https://www.tidy-finance.org/).
+👋 Hi, I’m @christophscheuch, an independent business intelligence & data science expert at [tidy-intelligence.com](https://www.tidy-intelligence.com/) and co-creator and maintainer of [tidy-finance.org](https://www.tidy-finance.org/) and [econdataverse.org](https://www.econdataverse.org/).
